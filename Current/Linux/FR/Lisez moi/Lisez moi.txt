@@ -1,0 +1,22 @@
+Voila la version 034 du programme CSO - DAX Compressor qui arrive sous linux 
+
+2 Type d'installation
+---------------------
+
+Type 1: Copie des binaires
+*--------------------------
+-> Copié les  3 fichiers se trouvant dans le dossier bin dans un dossier 
+ou se trouve le PATH system (exemple: /usr/bin)
+-> POur lancer le programme il suffit alors de lancé une console et d'écrire 
+csoCompiler
+Attention pour cette methode il vous faut les dépendances suivantes:
+- zlib
+- QT en version 3.3.5 (inclus dans suse 10.1)
+
+Type 2: Compilation des sources 
+---------------------------------
+-> Rendez vous dans le dossier src
+-> Veillez à avoir la librairie QT(3.3.5) et zlib(1.2.3) et gcc récent
+-> dans le repertoire faites alors make (ca devrait compiler)
+-> une fois l'éxécutable obtenu copié les 3 fichiers (ciso daxcr et csoCompiler) dans un dossier référencé par le PATH (/usr/bin)
+ 

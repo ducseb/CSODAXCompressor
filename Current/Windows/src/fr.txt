@@ -1,0 +1,129 @@
+---------V0.36--------------
+COPIE EN COURS
+SOURCE
+Taille du fichier source à copié<br>:
+Sur :<br>
+Copie du block :
+COPIE FINIE
+Choisisser le fichier ISO à compresser
+Fichier CSO à sauvegarder
+Choisisser ou vous voulez sauver le fichier DAX
+Choisisser ou vous voulez sauver le fichier JSO
+Compression ?
+Etes vous sur de vouloir convertir le fichier ISO vers CSO ?
+La compression est terminé<br> Taille du fichier ISO :
+ Mo\n Taille du fichier CSO :
+Compression CSO terminé.................. 
+Compression CSO annulé
+Vous avez annulé la compression CSO
+Etes vous sur de vouloir convertir le fichier ISO vers un fichier DAX ?<br> avec l'utilisation de zone non compréssé ?
+ Mo\n Taille du fichier DAX :
+Compression DAX terminé..................
+Compression DAX annulé
+Vous avez annulé la compression DAX
+Etes vous sur de vouloir convertir le fichier ISO vers JSO ?
+ Mo\n Taille du fichier JSO :
+Compression JSO terminé.................. 
+Compression JSO annulé
+Vous avez annulé la compression JSO
+Fichier CSO que vous voulez décompresser
+Fichier ISO à obtenir àprès la décompression
+Ficher CSO que vous voulez décompresser
+Fichier DAX à obtenir àprès la décompression
+Ficher CSO que vous voulez décompresser
+Fichier JSO à obtenir àprès la recompression
+Fichier DAX que vous voulez décompresser
+Fichier ISO à obtenir àprès la décompression
+Fichier DAX que vous voulez décompresser
+Fichier CSO à obtenir àprès compression
+Fichier DAX que vous voulez décompresser
+Fichier JSO à obtenir àprès la recompression
+Fichier JSO que vous voulez décompresser
+Fichier ISO à obtenir àprès décompression
+Fichier JSO que vous voulez décompresser
+Fichier CSO à obtenir àprès compression
+Fichier JSO que vous voulez décompresser
+Fichier DAX à obtenir àprès compression
+Choisisser le fichier que vous voulez décompressé
+Choisisser ou sauvez le fichier ISO décompressé
+Choisisser ou sauvez le fichier  DAX décompressé
+Choisisser ou sauvez le fichier  JSO recompressé
+Choisisser ou sauvez le fichier ISO décompressé
+Choisisser ou sauvez le fichier  CSO décompressé
+Choisisser ou sauvez le fichier  JSO recompressé
+Choisisser ou sauvez le fichier ISO décompressé
+Choisisser ou sauvez le fichier  CSO décompressé
+Choisisser ou sauvez le fichier  DAX décompressé
+Décompression ?
+Etes vous sur de vouloir convertir le fichier CSO en fichier ISO ?
+Décompression terminé
+Décompréssion Annulé
+Etes vous sur de vouloir convertir le fichier CSO en fichier DAX ?
+La décompression du fichier CSO vers ISO est terminé
+Vous avez annulez la décompression CSO 
+La décompression CSO est terminé <br>Maintenant la compression DAX va commencé
+Décompréssion CSO->DAX  terminer
+Décompréssion CSO->DAX Annulé
+Etes vous sur de vouloir convertir le fichier CSO en fichier JSO ?
+Décompression CSO terminé
+La décompression CSO est terminé <br>Maintenant la compression JSO va commencé
+Décompréssion CSO->JSO  terminer
+La décompréssion/recompression CSO->JSO est OK
+Décompréssion CSO->JSO Annulé
+Vous avez annulez la décompression CSO->JSO
+Etes vous sur de vouloir convertir le fichier DAX en fichier ISO ?
+Décompression DAX terminé 
+La décompression du fichier DAX vers ISO est terminé
+Décompréssion DAX Annulé
+Vous avez annulez la décompression DAX 
+Etes vous sur de vouloir convertir le fichier DAX en fichier CSO ?
+Décompression DAX terminé
+La décompression DAX est terminé <br>Maintenant la compression CSO va commencé
+Décompréssion DAX->CSO  terminer
+La décompréssion/recompression DAX->CSO est OK
+Décompréssion DAX->CSO Annulé
+Vous avez annulez la décompression DAX->CSO
+Etes vous sur de vouloir convertir le fichier DAX en fichier JSO ?
+Décompression DAX terminé
+La décompression DAX est terminé <br>Maintenant la compression JSO va commencé
+Décompréssion DAX->JSO  terminer
+La décompréssion/recompression DAX->JSO est OK
+Décompréssion DAX->JSO Annulé
+Vous avez annulez la décompression DAX->JSO
+Etes vous sur de vouloir convertir le fichier JSO en fichier ISO?
+Décompression JSO terminé
+La décompression du fichier JSO vers ISO est terminé
+Décompréssion JSO Annulé
+Vous avez annulez la décompression JSO 
+Etes vous sur de vouloir convertir le fichier JSO en fichier CSO ?
+Décompression JSO terminé
+La décompression JSO est terminé <br>Maintenant la compression CSO va commencé
+Décompréssion JSO ->CSO  terminer
+La décompréssion/recompression JSO->CSO est OK
+Décompréssion JSO->CSO Annulé
+Vous avez annulez la décompression JSO->CSO
+Etes vous sur de vouloir convertir le fichier JSO en fichier DAX ?
+Décompression JSO terminé
+La décompression JSO est terminé <br>Maintenant la compression DAX va commencé
+Décompréssion JSO -> DAX  terminer
+La décompréssion/recompression JSO->DAX est OK
+Décompréssion JSO->DAX Annulé
+Vous avez annulez la décompression JSO->DAX
+Chemin ou copié l'ISO
+Copie de fichier OK
+La copie à été effectué avec succes
+Problème de copie de fichier
+Une erreur est survenu pendant la copie de votre<br> fichier source vers le fichier de destination.<br> Vérifier que vous avez assez de place sur la mémory stick et que la PSP est branchéProblème de copie de fichier  de fichier
+Chemin ou copié l'ISO
+Copie de fichier OK
+La copie à été effectué avec succes
+Choisisser un repertoire
+Problème création fichier
+Impossible de crée le fichier nécessaire pour la création de fichier option
+Nombre de fichier à compresser :
+\n Voici la liste des fichiers à compresser :\n
+Les fichiers à compresser
+Les fichiers on été compressé
+Fin de la compression des différents fichiers iso
+La décompréssion/recompression CSO->DAX est OK
+Vous avez annulez la décompression CSO->DAX

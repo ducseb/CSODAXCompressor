@@ -1,0 +1,128 @@
+---------V0.36-----------
+COPY INITIATE
+SOURCE
+Size of file to copy :<br>
+On :<br>
+Block :
+Copy Sucessfull
+Choose the ISO you want to compress
+Choose the file where you want to save the CSO File
+Choose where you want to save the Dax File
+Choose the file where you want to save the JSO File
+Compression ?
+Are you sure you want to convert your ISO to CSO?
+Compression is over <br> ISO size is :
+ Mo\n Size of CSO File :
+CSO Compression is Over .................. 
+CSO Compression cancelled
+You have cancel the cso compression
+Are you sure you want to convert the ISO file to<br>DAX file with NC area ?
+ Mo\n DAX compressed file size :
+DAX Compression is over.................. 
+Compression DAX canceled
+You have canceled the DAX compression
+Are you sure you want to convert your ISO to JSO?
+ Mo\n JSO compressed file size :
+JSO Compression is over.................. 
+Compression JSO canceled
+You have canceled the JSO compression
+CSO file you want to decompress
+ISO file when the decompres is OK
+CSO file you want to decompress
+DAX file when the decompres and recompress  is OK
+CSO file you want to decompress
+JSO file when the decompres and recompress  is OK
+DAX  file you want to decompress
+ISO file when the decompres is OK
+DAX  file you want to decompress
+CSO file when the decompres and recompress  is OK
+DAX  file you want to decompress
+JSO file when the decompres and recompress  is OK
+JSO file you want to decompress
+ISO file when the decompres is OK
+JSO file you want to decompress
+Fichier CSO à obtenir àprès compression
+JSO file you want to decompress
+DAX file when the decompres and recompress  is OK
+Choose the file you want to decompress
+Choose the file where you want to save the ISO File
+Choose the file where you want to save the DAX File
+Choose the file where you want to save the JSO File
+Choose the file where you want to save the ISO File
+Choose the file where you want to save the CSO File
+Choose the file where you want to save the JSO File
+Choose the file where you want to save the ISO File
+Choose the file where you want to save the CSO File
+Choose the file where you want to save the DAX File
+Décompression ?
+"Are you sure you want to convert your CSO to ISO?"
+Decompression is over
+Decompréssion cancelled
+Are you sure you want to convert your CSO to DAX ?"
+The CSO decompression is over and OK
+You have cancel the CSO decompress 
+The CSO decompression is over and OK<br> Now the the DAX compression will begin
+CSO-> DAX Decompres is over 
+Decompres CSO->DAX canceled
+Are you sure you want to convert your DAX to ISO?
+The CSO decompression is over and OK
+The CSO decompression is over and OK<br> Now the the JSO compression will begin
+CSO->JSO Decompres is over 
+The CSO to JSO decompression is over
+CSO->JSO Decompres is canceled
+You have cancel the CSO->JSO recompress
+Are you sure you want to convert your DAX to ISO?
+DAX Decompres is over 
+The DAX decompression is over and OK
+Decompres DAX canceled
+You have cancel the DAX decompress
+Are you sure you want to convert your DAX to CSO ?
+DAX Decompres is over 
+The DAX decompression is over and OK<br> Now the the CSO compression will begin
+DAX->CSO Decompres is over 
+The DAX to CSO decompression is over
+Decompres DAX->CSO canceled
+You have cancel the DAX->CSO decompress
+Are you sure you want to convert your DAX to JSO ?
+DAX Decompres is over 
+The DAX decompression is over and OK<br> Now the the JSO compression will begin
+DAX->JSO Decompres is over 
+The DAX to JSO decompression is over
+Decompres DAX->JSO canceled
+You have cancel the DAX->JSO decompress
+Are you sure you want to convert your JSO to ISO?
+JSO Decompres is over 
+The JSO decompression is over and OK
+Decompres JSO canceled
+You have cancel the JSO decompress
+Are you sure you want to convert your JSO to CSO ?
+JSO Decompres is over 
+The JSO decompression is over and OK<br> Now the the CSO compression will begin
+JSO->CSO Decompres is over 
+The JSO to CSO decompression is over and OK
+Decompres JSO->CSO canceled
+You have cancel the JSO decompress
+Are you sure you want to convert your JSO to DAX ?
+JSO Decompres is over 
+The JSO decompression is over and OK<br> Now the the DAX compression will begin
+JSO-> DAX Decompres is over 
+The JSO to DAX decompression is over
+Decompres JSO canceled
+You have cancel the JSO decompress
+Path where copy the ISO
+File copy is OK
+The file copy is sucessfull
+Problem
+Error during copy from source to destination<br>Be sur you have enough disk space on your memory stick  and the PSP is plug on the computer
+File copy is OK
+The file copy is sucessfull
+Choose a path
+File creation problem
+Option file creation fail, be sure you have the right rights for this folder
+Number of file to compress :
+\n File to compress :\n
+Files to compress
+The files are compressed
+End of files compressions
+The CSO to DAX decompression is over
+You have cancel the CSO->DAX recompress
