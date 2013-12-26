@@ -3,8 +3,9 @@ CSODAXCompressor
 
 ISO to CSO/DAX for PSP loader  (C++/QT)
 
-Version 0.37 (dernière version 2006) 
-GPL V2  
+Version 0.37 (dernière version 2006)
+
+Licence GPL V2  
 
 
 Change log:
